@@ -76,7 +76,7 @@ a:hover {
 	position: relative;
 	height: 3em;
     	margin-top: -3em;
-	background-color: #668284;
+	background-color: black;
 	clear: both;
 	font-family: Verdana, sans-serif;
 	font-size: 14px;
@@ -84,7 +84,3 @@ a:hover {
 	color: #ffffff;
 }
 
-#footer p {
-	position: relative;
-	padding-top: 15px;
-}
