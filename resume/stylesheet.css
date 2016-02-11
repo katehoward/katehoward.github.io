@@ -2,8 +2,9 @@ div {
 	border-radius: 5px;
 }
 #wrapper {
-    width: 500px;
+    width: 5px;
     margin: 0 auto;
+    position: relative;
 }
 
 #header {
