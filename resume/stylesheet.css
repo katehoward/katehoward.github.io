@@ -5,7 +5,7 @@ div {
 #header {
 	z-index: 1;
 	position: fixed;
-	width: 97.5%;
+	width: 100%;
 	margin-top: -20px;
 	height: 60px;
 	background-color: black;
@@ -78,11 +78,10 @@ a:hover {
 }
 
 #footer {
-	 position: absolute;
+	 position: fixed;
 	 right: 0;
   	bottom: 0;
   	left: 0;
-  	width: 100%;
   	padding: 1rem;
 	background-color: black;
 	font-family: Verdana, sans-serif;
