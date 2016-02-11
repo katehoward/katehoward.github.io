@@ -8,7 +8,7 @@ div {
 	width: 97.5%;
 	margin-top: -20px;
 	height: 60px;
-	background-color: #668284;
+	background-color: #black;
 	margin-bottom: 10px;
 }
 
@@ -18,7 +18,7 @@ div {
 	padding-top: 5px;
 	font-size: 16px;
 	font-family: Verdana, sans-serif;
-	color: #ffffff;
+	color: white;
 }
 
 #email{
@@ -75,7 +75,7 @@ a:hover {
 #footer {
 	position: relative;
 	height: 3em;
-    margin-top: -3em;
+    	margin-top: -3em;
 	background-color: #668284;
 	clear: both;
 	font-family: Verdana, sans-serif;
